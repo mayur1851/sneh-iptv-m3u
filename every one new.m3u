@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="id" group-title="Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_HD.png",Zee HD Marathi
+http://watchindia.net:8880/live/33253/72963/913.ts
+#EXTINF:-1  tvg-id="id" group-title="Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png",Colors HD Marathi
+http://watchindia.net:8880/live/33253/72963/912.ts
+#EXTINF:-1  tvg-id="id" group-title="Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/UTV_Action.png",UTV Action
+http://watchindia.net:8880/live/33253/72963/805.ts
+#EXTINF:-1  tvg-id="N/A" group-title="TAMIL" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_967/ktv.jpg",KTV
+http://watchindia.net:8880/live/33253/72963/845.ts
+#EXTINF:-1  tvg-id="id" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png",sun tv network
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=14020
+#EXTINF:-1  tvg-id="id" group-title="TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png",SUNTV HD
+http://watchindia.net:8880/live/33253/72963/843.ts
+#EXTINF:-1  tvg-id="id" group-title="TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832",Adithya
+http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40805.ts
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png",Sony Six Sd
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 Hd
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1_Masthead_Logo.png",Sony Ten 1 Sd
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2 Hd
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png",Sony Ten 2 Sd
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3 Hd
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3_Masthead_Logo.png",Sony Ten 3 Sd
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Notification" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni5sz7SZMYd3wml7b-7iDxNLUX-TdiZspyW8GXRHA=s88-c-k-c0x00ffffff-no-rj",Made By Indian Tech Tube
+https://www.youtube.com/watch?v=RVE34ifKmXg
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",Aaj Tak Hd
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",Aaj Tak Sd
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/1339022560739016705/gxJFR4B9.png",Abp Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master_764.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://content.vidgyor.com/live/abp_hindi.jpg",Abp News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/07/ABP-Sanjhaa_8.jpg",Abp Sanjha
+https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/master_764.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://i.ytimg.com/vi/7YXq3v2aAAI/maxresdefault.jpg",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png",Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/India_Today_TV_Channel_logo.jpg",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://static.indiatvnews.com/ins-web/images/lazy.jpg",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png",Ndtv India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png",NDTV Profit
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg",News Nation
+https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_360p/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png",Ptc News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg",Tez
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-251/list/09251tv9bharatvarsh.jpg",Tv9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png",Zee News
+http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9xm
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png",Mastii Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:-1  tvg-id="753" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1  tvg-id="1145" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Music" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png",Ptc Chakde
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/09zingzing.jpg",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg",Zoom
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",& Privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg",&Flix Hd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png",&Pictures Sd
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1  tvg-id="482" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex HD
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://exchange4media.gumlet.io/news-photo/100312.ptcMain.jpg",Ptc Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png",Ptc Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png",Sony Max Hd
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_929/PORTRAIT/gXP7mJt1.png",Sony Pix Hd
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://assets.botallen.live/images/t/ENYdMQURQG.png",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://assets.botallen.live/images/t/CuuKMMvMNC.png",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png",Zee Cinema Me
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg",Zee Cinema Uk
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg",Zee Cinema Us
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="1226" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png",Nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:-1  tvg-id="544" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:-1  tvg-id="815" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",Sony Yay
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1  tvg-id="id" group-title="Group Title" tvg-logo="data:image/jpeg;base64,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",Star Utsav
+http://ip.mooniptv.cz:80/live/1564996702/4897034110/83708.ts
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigganga/list/09biggangabigganga.jpg",Big Ganga
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+#EXTINF:-1  tvg-id="144" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#EXTINF:-1  tvg-id="1157" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg",DD National
+https://viacom-b.multitvsolution.com/dashv/ddnational.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg",DD Retro
+https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
+#EXTINF:-1  tvg-id="279" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png",Sony Hd
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png",Sony pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png",Sony Sab
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1  tvg-id="id" group-title="Entertainment" tvg-logo="https://i.ibb.co/7gjSzQQ/SAILOR-LOGO.png",Star Bharat
+http://ip.mooniptv.cz:80/live/1564996702/4897034110/83712.ts
+#EXTINF:-1  tvg-id="id" group-title="Entertainment" tvg-logo="https://media.cdnandroid.com/88/84/88/35/imagen-star-plus-hd-0thumb.jpeg",Star Plus HD
+http://watchindia.net:8880/live/33253/72963/1924.ts
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png",Zee Cafe Hd
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg",Zee Tv Canada
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg",Zee Tv Me
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg",Zee Tv Uk
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg",Zee Tv Usa
+https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/tracks-v1a1/index.m3u8
